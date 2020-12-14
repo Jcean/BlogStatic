@@ -62,9 +62,9 @@ div class.cdp_tmlabel > li .cbp_tmlabel {
 }
 
 div.cbp_tmlabel > p {
-	margin: 0;
-	color: #fff;
-	line-height: unset;
+	margin: 0 !important;
+	color: #fff !important;
+	line-height: unset !important;
 }
 /* Right content */
 .cbp_tmtimeline > li .cbp_tmlabel {
