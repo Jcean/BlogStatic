@@ -3,8 +3,12 @@ body.theme-dark .cbp_tmtimeline::before {
 	background: RGBA(255, 255, 255, 0.06);
 }
 
+.cbp_tmtimeline > li {
+	list-style: none !important;
+}
+
 ul.cbp_tmtimeline {
-	padding: 0;
+	padding: 0 !important;
 }
 
 div class.cdp_tmlabel > li .cbp_tmlabel {
