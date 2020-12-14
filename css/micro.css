@@ -7,10 +7,6 @@ body.theme-dark .cbp_tmtimeline::before {
 	list-style: none !important;
 }
 
-ul.cbp_tmtimeline {
-	padding: 0 !important;
-}
-
 div class.cdp_tmlabel > li .cbp_tmlabel {
 	margin-bottom: 0;
 }
